@@ -1,6 +1,6 @@
 # 👋 Welcome to Amir Ali's GitHub Profile!
 
-Hi, I'm **Amir Ali**, a student in the Software Engineering department at the Faculty of Computer and Information Science, **Culture and Science City**.
+Hi, I'm **Amir Ali**, a student in the Computer Science department at the Faculty of Computer Science and Information System, **Culture and Science City**.
 I'm passionate about **Data Science**, analyzing data, building predictive models, and exploring the world of Machine Learning.
 
 ## About Me
