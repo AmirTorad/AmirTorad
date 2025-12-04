@@ -61,6 +61,4 @@ Here are the technologies I'm working with:
 
 </p>
 
-<a href="https://www.github.com/AmirTorad" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/AmirTorad?logo=github&style=for-the-badge&color=f97316&labelColor=27272a" />
-</a>
+
