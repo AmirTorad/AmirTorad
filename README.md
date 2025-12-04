@@ -48,10 +48,6 @@ I enjoy experimenting with algorithms, exploring datasets, and creating solution
 * **Git & GitHub**
 * **C++ (Problem Solving / Logic Building)**
 
-## Projects
-
-<!-- Add your projects here -->
-
 ## Get in Touch
 
 <p align="left" style="display: flex; gap: 40px;">
