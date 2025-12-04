@@ -8,9 +8,6 @@ I'm passionate about **Data Science**, analyzing data, building predictive model
 I'm deeply interested in learning Data Science, understanding how data works, and using it to build predictive and analytical Machine Learning models.
 I enjoy experimenting with algorithms, exploring datasets, and creating solutions that extract real value from data.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirTorad\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirTorad\&layout=compact\&theme=radical)
-
 ## Technologies
 
 Here are the technologies I'm working with:
@@ -61,6 +58,8 @@ Here are the technologies I'm working with:
     </picture>
   </a>
 
+         
+
   <a href="https://www.github.com/AmirTorad" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
@@ -68,6 +67,8 @@ Here are the technologies I'm working with:
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
     </picture>
   </a>
+
+         
 
   <a href="https://www.facebook.com/amirtorad052" target="_blank" rel="noreferrer">
     <picture>
