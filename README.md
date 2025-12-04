@@ -53,12 +53,18 @@ Here are the technologies I'm working with:
 
   <a href="https://www.linkedin.com/in/amir-ali-torad" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="35" height="35" alt="LinkedIn" />
-  </a>   <a href="https://www.github.com/AmirTorad" target="_blank" rel="noreferrer">
+  </a>
+
+  <a href="https://www.github.com/AmirTorad" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="35" height="35" alt="GitHub" />
-  </a>   <a href="https://www.facebook.com/amirtorad052" target="_blank" rel="noreferrer">
+  </a>
+
+  <a href="https://www.facebook.com/amirtorad052" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="35" height="35" alt="Facebook" />
   </a>
 
 </p>
 
-
+<a href="https://www.github.com/AmirTorad" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/AmirTorad?logo=github&style=for-the-badge&color=f97316&labelColor=27272a" />
+</a>
